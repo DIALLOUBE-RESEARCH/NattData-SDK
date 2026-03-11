@@ -20,7 +20,7 @@ View on npm
 This SDK is fully compatible with the Google A2A protocol. Agents can discover all protocol capabilities by fetching our Agent Card: https://hypernatt.com/.well-known/agent-card.json
 
 ⚡ Core Features (Live on Base Mainnet)
-As detailed in the NattData Whitepaper, the SDK provides access to all production smart contracts:
+As detailed in the NattData Whitepaper (https://hypernatt.com/docs), the SDK provides access to all production smart contracts:
 
 Cross-Chain Swaps: 20+ blockchains supported via deep Li.Fi integration (swap_via_nattswap).
 x402 Agent Commerce: Built-in agentic micro-payment support ($0.01 USDC per quote) validated via CDP.
