@@ -1,0 +1,45 @@
+{
+    "name": "nattdata-sdk",
+    "version": "1.1.0",
+    "description": "NattSwap SDK — Cross-chain swaps with NDAT rewards for AI agents",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "prepublishOnly": "npm run build"
+    },
+    "files": [
+        "dist/",
+        "README.md"
+    ],
+    "keywords": [
+        "nattswap",
+        "ndat",
+        "ai-agent",
+        "cross-chain",
+        "swap",
+        "defi",
+        "base",
+        "ethereum",
+        "mcp",
+        "machine-to-machine"
+    ],
+    "author": {
+        "name": "HyperNatt",
+        "email": "contact@hypernatt.com",
+        "url": "https://hypernatt.com"
+    },
+    "license": "MIT",
+    "homepage": "https://hypernatt.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DIALLOUBE-RESEARCH/NATTAPP-portfolio"
+    },
+    "devDependencies": {
+        "@types/node": "^25.4.0",
+        "typescript": "^5.5.0"
+    },
+    "engines": {
+        "node": ">=18.0.0"
+    }
+}
