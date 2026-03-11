@@ -32,4 +32,5 @@ All features are also accessible via our Model Context Protocol (MCP) server at:
 🔒 Smart Contracts
 NattDataToken (NDAT): 0x7601550Ce343B8EC89ecC973987d68b938Bd77dd
 NattDataGateway: 0x6A8B8078222C9eF6738577058805C56aAD0007Ad
+https://hypernatt.com
 © 2026 DIALLOUBE-RESEARCH. All rights reserved.
